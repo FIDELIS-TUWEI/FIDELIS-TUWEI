@@ -8,7 +8,6 @@
 - 🤔 I’m looking for help with React.js
 - 💬 Ask me about Javascript HTML CSS React
 - 📫 How to reach me: fideliofidel9@gmail.com
-- Reach me on my personal number: +254769789528
 - Twitter: @Fidelis_Tuwei
 - ⚡ Fun fact: I'm currently learning fulltime 😄
 
