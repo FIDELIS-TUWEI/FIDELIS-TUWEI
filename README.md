@@ -1,11 +1,10 @@
 Hello there, I'm Fidelis 👋
-🔭 I’m currently learning MERN stack
-🌱 I’m currently building web applications with React.js
-👯 I’m looking to collaborate on projects with other developers
-💬 Ask me about JavaScript, HTML, CSS, React
-📫 How to reach me: fideliofidel9@gmail.com
-Twitter: @Fidelis_Tuwei
-⚡ Fun fact: I enjoy learning new technologies 😄
+- 🔭 I’m a Full-stack develeoper
+- 🌱 I’m currently building web applications with React.js
+- 👯 I’m looking to collaborate on projects with other developers
+- 📫 How to reach me: fideliofidel9@gmail.com
+- Twitter: @Fidelis_Tuwei
+- ⚡ Fun fact: I enjoy learning new technologies 😄
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://twitter.com/Fidelis_Tuwei" target="_blank">
