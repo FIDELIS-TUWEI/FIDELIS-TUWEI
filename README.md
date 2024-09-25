@@ -1,6 +1,6 @@
 Hello there, I'm Fidelis 👋
 - 🔭 I’m a Full-stack develeoper
-- 🌱 I’m currently building web applications with React.js
+- 🌱 I’m currently building web applications with MongoDB, Express React.js, Typescript, Javascript and Next.js
 - 👯 I’m looking to collaborate on projects with other developers
 - 📫 How to reach me: fideliofidel9@gmail.com
 - Twitter: @Fidelis_Tuwei
